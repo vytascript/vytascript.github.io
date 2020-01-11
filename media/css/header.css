@@ -13,12 +13,12 @@ header nav {
   width: 100%;
 }
 
-nav h1, nav a {
+nav h2, nav a {
   display: inline;
   clear: none;
 }
 
-nav h1 {
+nav h2 {
   float: left;
 }
 
