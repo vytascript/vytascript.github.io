@@ -1,12 +1,12 @@
-header {
+#home-header {
   background-image: url("../image/leaves.jpg");
   width: 100%;
   position: absolute;
   left: 0px;
-  bottom: 50px;
+  bottom: 40px;
 }
 
-header nav {
+nav {
   border-bottom: 1px solid white;
   position: fixed;
   color: white;
