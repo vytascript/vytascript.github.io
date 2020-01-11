@@ -12,3 +12,18 @@ header nav {
   left: 0;
   width: 100%;
 }
+
+nav h1, nav a {
+  display: inline;
+}
+
+nav h1 {
+  float: left;
+}
+
+nav a {
+  float: right;
+  border: 1px solid white;
+  padding: 7px;
+  color: inherit;
+}
