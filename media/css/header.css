@@ -11,6 +11,7 @@ header nav {
   top: 0;
   left: 0;
   width: 100%;
+  height: 50px;
 }
 
 nav h2, nav a {
@@ -27,4 +28,7 @@ nav a {
   border: 1px solid white;
   padding: 7px;
   color: inherit;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5px;
 }
