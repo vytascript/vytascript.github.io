@@ -32,4 +32,5 @@ nav a {
   margin-bottom: auto;
   margin-left: 5px;
   bottom: 12px;
+  position: relative;
 }
