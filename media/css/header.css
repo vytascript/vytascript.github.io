@@ -15,6 +15,7 @@ header nav {
 
 nav h1, nav a {
   display: inline;
+  clear: none;
 }
 
 nav h1 {
