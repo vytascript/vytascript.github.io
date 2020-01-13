@@ -1,0 +1,9 @@
+/**
+    || RESET ||
+    This file is used to make the baseline elements display
+    this same in all browsers.
+*/
+
+body {
+  padding: 0px;
+}
